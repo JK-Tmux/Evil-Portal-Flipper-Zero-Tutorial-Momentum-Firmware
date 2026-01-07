@@ -1,4 +1,4 @@
-## <ins> Evil Portal Flipper Zero - Momentum Firmware Tutorial </ins>
+## <ins> Evil Portal Flipper Zero Tutorial - Momentum Firmware </ins>
 Educational captive portal experiment using HTML templates
 
 **Disclaimer:**
